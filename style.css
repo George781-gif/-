@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: #6D33CB;
+    color: white;
+}
+
+.ava {
+  display: flex;
+  justify-content: center;  
+}
+
+
+.ob {
+ display: flex; 
+}
+
+.divo2 {
+ padding-left: 55px; 
+}
